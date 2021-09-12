@@ -1,8 +1,8 @@
 # HyperElk-FREE
 
-Use HyperElk for FREE:
-Enter any serial number, valid till 2030
-Regards PixelMagic - WiNiFiX
+Use HyperElk for FREE:<br>
+Enter any serial number, valid till 2030<br>
+Regards PixelMagic - WiNiFiX<br>
 
 **Original License**
 
