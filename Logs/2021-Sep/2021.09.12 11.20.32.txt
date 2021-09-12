@@ -1,0 +1,67 @@
+[09/12/2021 11:20:32] HyperElk Loading...
+[09/12/2021 11:20:32] --------------------------------------------------------------------------------------------------------------------------------------------------------
+[09/12/2021 11:20:32] Software version: 1.2.7920.25875
+[09/12/2021 11:20:32] Windows 10 Pro (x64) Version 10.0.19043 SP 0.0
+[09/12/2021 11:20:32] Screen [1] - depth: 32bit - resolution: 2560x1080
+[09/12/2021 11:20:32] Screen [2] - depth: 32bit - resolution: 1920x1080
+[09/12/2021 11:22:39] WoW Path: C:\Games\World of Warcraft
+[09/12/2021 11:22:39] Make sure the addon: Magic is enabled in your list of WoW Addons or the rotation bot will fail to work.
+[09/12/2021 11:22:39] Classic is allowed: False
+[09/12/2021 11:22:39] Retail is allowed: True
+[09/12/2021 11:22:39] loading rotation[C:\Users\WiNiFiX\Downloads\HyperElk-Release-main\Rotations\Retail\DeathKnight\Blood Deathknight.cs]...
+[09/12/2021 11:22:39] Compiling profile ...
+[09/12/2021 11:22:43] Loading rotation with Profile: Default
+[09/12/2021 11:22:43] Using Pulse Frequency (ms) = 150
+[09/12/2021 11:22:43] Welcome to Blood DK rotation @ Fmflex
+[09/12/2021 11:22:44] DnD Macro to be use : /cast [@player] Death and Decay
+[09/12/2021 11:22:44] Anti-Magic Zone Macro to be use : /cast [@player] Anti-Magic Zone
+[09/12/2021 11:22:44] AddOn Path: C:\Games\World of Warcraft\_retail_\Interface\AddOns\Magic
+[09/12/2021 11:22:44] Creating file: [LibRangeCheck-2.0.lua]
+[09/12/2021 11:22:44] Creating file: [LibStub.lua.lua]
+[09/12/2021 11:22:44] Creating Addon from SpellBook, AddonName will be [Magic]...
+[09/12/2021 11:22:44] Creating file: [Magic.toc]
+[09/12/2021 11:22:44] Creating file: [Magic.lua]
+[09/12/2021 11:22:44] A new Addon file has been generated, please use /reload in game.
+[09/12/2021 15:42:29] Classic is allowed: False
+[09/12/2021 15:42:29] Retail is allowed: True
+[09/12/2021 15:42:29] loading rotation[C:\Users\WiNiFiX\Downloads\HyperElk-Release-main\Rotations\Retail\Hunter\Beastmastery-Hunter-Vec.cs.enc]...
+[09/12/2021 15:42:29] Decrypting profile ...
+[09/12/2021 15:42:29] Compiling profile ...
+[09/12/2021 15:42:34] Loading rotation with Profile: Default
+[09/12/2021 15:42:34] Using Pulse Frequency (ms) = 150
+[09/12/2021 15:42:34] Welcome to Beast Mastery Hunter Rotation
+[09/12/2021 15:42:34] Misdirection Macro : /cast [@focus,help][help][@pet,exists] Misdirection
+[09/12/2021 15:42:34] Kill Shot Mouseover - /cast [@mouseover] Kill Shot
+[09/12/2021 15:42:34] Downloading icon for spell: Wailing Arrow , 355589
+[09/12/2021 15:42:38] Downloading icon for spell: Dash , 61684
+[09/12/2021 15:42:41] Downloading icon for spell: Call Pet 1 , 883
+[09/12/2021 15:42:44] Downloading icon for spell: Call Pet 2 , 83242
+[09/12/2021 15:42:45] Downloading icon for spell: Call Pet 3 , 83243
+[09/12/2021 15:42:47] Downloading icon for spell: Call Pet 4 , 83244
+[09/12/2021 15:42:47] Downloading icon for spell: Call Pet 5 , 83245
+[09/12/2021 15:42:49] AddOn Path: C:\Games\World of Warcraft\_retail_\Interface\AddOns\Magic
+[09/12/2021 15:42:49] Creating Addon from SpellBook, AddonName will be [Magic]...
+[09/12/2021 15:42:49] Creating file: [Magic.toc]
+[09/12/2021 15:42:49] Creating file: [Magic.lua]
+[09/12/2021 15:42:50] A new Addon file has been generated, please use /reload in game.
+[09/12/2021 17:37:03] WoW Path: C:\Games\World of Warcraft
+[09/12/2021 17:37:03] Make sure the addon: Magic is enabled in your list of WoW Addons or the rotation bot will fail to work.
+[09/12/2021 17:37:03] Classic is allowed: False
+[09/12/2021 17:37:03] Retail is allowed: True
+[09/12/2021 17:37:03] loading rotation[C:\Users\WiNiFiX\Downloads\HyperElk-Release-main\Rotations\Retail\Hunter\Beastmastery-Hunter-Vec.cs.enc]...
+[09/12/2021 17:37:03] Decrypting profile ...
+[09/12/2021 17:37:03] Compiling profile ...
+[09/12/2021 17:37:08] Loading rotation with Profile: Default
+[09/12/2021 17:37:08] Using Pulse Frequency (ms) = 150
+[09/12/2021 17:37:08] Welcome to Beast Mastery Hunter Rotation
+[09/12/2021 17:37:08] Misdirection Macro : /cast [@focus,help][help][@pet,exists] Misdirection
+[09/12/2021 17:37:08] Kill Shot Mouseover - /cast [@mouseover] Kill Shot
+[09/12/2021 17:37:08] AddOn Path: C:\Games\World of Warcraft\_retail_\Interface\AddOns\Magic
+[09/12/2021 17:37:08] Creating Addon from SpellBook, AddonName will be [Magic]...
+[09/12/2021 17:37:08] Creating file: [Magic.toc]
+[09/12/2021 17:37:08] Creating file: [Magic.lua]
+[09/12/2021 17:37:08] A new Addon file has been generated, please use /reload in game.
+[09/12/2021 17:37:16] Starting bot...
+[09/12/2021 17:37:16] Rotation paused until WoW Window has focus again.
+[09/12/2021 17:37:19] Stopping bot.
+[09/12/2021 17:37:19] Combat routine has been stopped sucessfully.
